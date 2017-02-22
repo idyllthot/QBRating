@@ -1,3 +1,5 @@
-# Tutorial
+# QBRating
 
-This is my tutorial repository.
+This is my old QBRating applet
+
+Brushing up on my Java and git experience
